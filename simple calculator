@@ -1,4 +1,4 @@
-python program for simple calculator.
+#python program for simple calculator.
 def add(x, y):
     return x + y
 def subtract(x, y):
